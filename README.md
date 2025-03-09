@@ -1,85 +1,51 @@
-# Hello, I'm Suryansh Parashar! 👋
+# Hi, I'm Suryansh Parashar! 👋
 
-I'm a passionate web developer who loves to build full-stack websites. Here's a bit about me:
+I’m a passionate Full-Stack Web Developer dedicated to building high-quality and scalable applications. I enjoy solving complex problems and continuously expanding my skill set.
 
-- 📖 I'm currently studying at VIT.
-- 🔭 I’m currently working on Tech it Smart.
-- 🌱 I’m currently learning DBMS.
-- 💬 Ask me about JavaScript.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/thesuryanshparashar/).
+## 🚀 About Me
 
-## Skills
+- 🎓 Currently studying at VIT.
+- 🌱 Exploring Deep Learning alongside web development.
+- 💬 Ask me anything about MERN stack development.
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/thesuryanshparashar/).
 
-- 💻 Programming Languages: JavaScript, Python
-<!-- - 🚀 Frameworks & Technologies: [Frameworks, e.g., React, Node.js, Docker] --->
-- 🎨 Design & Frontend: HTML, CSS<!-- UI/UX principles -->
-<!-- - 📚 Databases: [Database Systems, e.g., MySQL, MongoDB -->
-- 🛠 Tools<!-- & DevOps -->: Git, GitHub<!--, Docker, Jenkins -->
+## 🛠 Tech Stack & Skills
+
+### 💻 Programming Languages
+- JavaScript, Java, Python, C++
+
+### 🚀 Frameworks & Technologies
+- MongoDB (Mongoose), Express.js, React.js, Node.js
+
+### 🎨 Frontend & UI/UX
+- HTML, CSS, React.js, Framer Motion
+
+### 📚 Databases
+- MongoDB
+
+### 🛠 Tools & Platforms
+- Git, GitHub
 
 <!--
-## Projects
-
-### [Project 1 Name]
-
-Brief description of the project. Add any relevant information such as technologies used, challenges overcome, or key achievements.
-
-![Project 1 Screenshot](URL_to_Screenshot)
-
-### [Project 2 Name]
-
-Brief description of the project. Add any relevant information such as technologies used, challenges overcome, or key achievements.
-
-![Project 2 Screenshot](URL_to_Screenshot)
--->
-
-## Trophy
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=thesuryanshparashar)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
-## GitHub Stats
+## 📈 GitHub Stats & Activity
 
 ![Suryansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesuryanshparashar&show_icons=true&theme=merko)
 
+[![Suryansh's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thesuryanshparashar&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+## 🏆 Achievements
 
-## Activity Graph
-
-[![Suryansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thesuryanshparashar&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
-
-<!--
-## Latest Blog Posts
-
-<!- BLOG-POST-LIST:START ->
-- [Blog Post 1 Title](Link_to_Blog_Post)
-- [Blog Post 2 Title](Link_to_Blog_Post)
-<!- BLOG-POST-LIST:END ->
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=thesuryanshparashar&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
 -->
 
-<!--
-## Coding Activity
+## 🔗 Get in Touch
 
-<!-START_SECTION:activity->
-1. 🎉 Merged PR [#123](Link_to_Merged_PR) in Repository1
-2. 💼 Opened issue [#456](Link_to_Opened_Issue) in Repository2
-3. ⭐ Starred [Awesome_Project](Link_to_Awesome_Project)
-<!-END_SECTION:activity->
--->
+- 📧 Email: [My Email](mailto:sparashar2002@gmail.com)
+- 🔗 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/thesuryanshparashar/)
 
-## Get in Touch
+## ✨ Fun Fact
 
-- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/thesuryanshparashar/)
-<!-- - Email: [Your Email](mailto:your.email@example.com) -->
+- 💡 Favorite Quote: *"Drive Your Tech Smartly."*
 
-## Fun Facts
+Thanks for visiting my profile! 😊
 
-<!-- - ☕️ Number of Coffees Consumed: [Number] -->
-- 💬 Favorite Quote: Drive Your Tech Smartly
-
-
-
-Thanks for visiting! 😊
